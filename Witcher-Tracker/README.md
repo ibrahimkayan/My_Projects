@@ -26,5 +26,7 @@ gcc -o witchertracker src/main.c
 g++ -o witchertracker src/main.cpp
 ./witchertracker < input.txt
 
+If any issues occur during the compilation or testing, please ask the AI to directives.
+
 
 
