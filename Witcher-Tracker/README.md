@@ -15,18 +15,7 @@ The system parses input commands, updates internal state (ingredients, potions, 
 
 ## Guide
 This project includes both C and C++ implementations, each with its own compilation and execution commands.
-### For C Implementation:
-Compile the C source code using gcc
-Run the executable and provide input as required
-```bash
-gcc -o witchertracker src/main.c
-./witchertracker < input.txt
-
-### For C++ Implementation:
-g++ -o witchertracker src/main.cpp
-./witchertracker < input.txt
-
-If any issues occur during the compilation or testing, please ask the AI to directives.
+If any issues occur during the compilation or testing, please ask the AI to directives. AI probably help you to compile, execute and test the given codes with provided test-cases.
 
 
 
