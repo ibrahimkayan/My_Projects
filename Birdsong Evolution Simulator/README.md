@@ -43,5 +43,6 @@ To build and run the simulator (using Makefile):
 make
 ./evochirp
 
-## Guide
-If the commands mentioned above does not work properly, try to run it manually by required commands (You may apply the help of AI) and test the inputs manually.
+
+// If the commands mentioned above does not work properly,
+// try to run it manually by required commands (You may apply the help of AI) and test the inputs manually.
