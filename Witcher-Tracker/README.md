@@ -14,8 +14,17 @@ The system parses input commands, updates internal state (ingredients, potions, 
 - Modular design using C++ object-oriented programming principles
 
 ## Guide
+This project includes both C and C++ implementations, each with its own compilation and execution commands.
+## For C Implementation
+Compile the C source code using gcc:
+```bash
+gcc -o witchertracker src/main.c
 
-There are both C and C++ implementations of the project, each with its own Makefile.  
-Using these Makefiles, the code can be compiled and tested with the provided test cases.  
-If any issues occur due to missing environments or container dependencies, please try compiling and running the code using standard compilation commands.
+Run the executable and provide input as required:
+./witchertracker < input.txt
+## For C++  Implementation
+g++ -o witchertracker src/main.cpp
+./witchertracker < input.txt
+
+
 
