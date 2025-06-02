@@ -37,7 +37,7 @@ The program parses and applies these transformations step by step, printing the 
 
 ## Compilation & Execution
 
-To build and run the simulator(using Makefile):
+To build and run the simulator (using Makefile):
 
 ```bash
 make
