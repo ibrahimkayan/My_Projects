@@ -1,4 +1,4 @@
-# Magical Map — CMPE250 Project 3
+# Magical Map 
 
 This project simulates a **dynamic pathfinding system** using **Dijkstra's algorithm** on a magical map grid. The world is gradually revealed, obstacles appear during traversal, and strategic decisions must be made using wizard offers to unlock blocked paths.
 
