@@ -34,9 +34,9 @@ Run Instructions
 bash
 - javac Main.java
 - java Main
-The program reads from input.txt in the same folder.
+- The program reads from input.txt in the same folder.
 
-All output (movement logs, wizard choices, etc.) will be written to output.txt.
+- All output (movement logs, wizard choices, etc.) will be written to output.txt.
 
 ⚠️ Make sure Main.java, input.txt, output.txt, and (if used) expected_output.txt are located in the same directory, otherwise the program may not function as expected.
 
