@@ -50,7 +50,7 @@ while (!myMinHeap.isEmpty()) {
     }
 }
 
-🚀 How to Run
+## 🚀 How to Run
 To successfully compile and run the program, ensure all required files are in the same directory:
 
 Required Files
